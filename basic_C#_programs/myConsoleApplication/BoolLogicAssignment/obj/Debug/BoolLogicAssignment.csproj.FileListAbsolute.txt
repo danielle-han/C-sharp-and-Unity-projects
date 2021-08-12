@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\bin\Debug\BoolLogicAssignment.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\bin\Debug\BoolLogicAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\bin\Debug\BoolLogicAssignment.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\obj\Debug\BoolLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\obj\Debug\BoolLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\obj\Debug\BoolLogicAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BoolLogicAssignment\obj\Debug\BoolLogicAssignment.pdb
