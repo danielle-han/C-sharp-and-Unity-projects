@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
