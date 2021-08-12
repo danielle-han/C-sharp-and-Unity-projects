@@ -41,7 +41,9 @@ namespace myConsoleApplication
             int hoursOfStudy = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(hoursOfStudy);
 
-            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+            Console.WriteLine("Thank you for your answers." + " An Instructor will respond to this shortly. Have a great day!");
+
+
             Console.Read();
         }
     }

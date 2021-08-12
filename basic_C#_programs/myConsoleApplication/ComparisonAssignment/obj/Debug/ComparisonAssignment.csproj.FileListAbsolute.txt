@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\bin\Debug\ComparisonAssignment.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\bin\Debug\ComparisonAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\bin\Debug\ComparisonAssignment.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\obj\Debug\ComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\obj\Debug\ComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\obj\Debug\ComparisonAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ComparisonAssignment\obj\Debug\ComparisonAssignment.pdb
