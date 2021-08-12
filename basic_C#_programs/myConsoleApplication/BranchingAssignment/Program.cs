@@ -31,6 +31,17 @@ namespace BranchingAssignment
                 }
             }
             Console.Read();
+
+            //int day = 4;
+            //switch(day)
+            //{ 
+            //case 1: //if day = 1 execute code below
+                //Console.WriteLine("Monday");
+                //break;
+            //default:
+                //code
+                //break;
+            //}
         }
     }
 }
