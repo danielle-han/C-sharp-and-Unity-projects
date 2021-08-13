@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\basic_C#_programs",
+    "\\basic_C#_programs\\TwentyOne"
   ],
-  "SelectedNode": "\\myConsoleApplication.sln",
+  "SelectedNode": "\\basic_C#_programs\\TwentyOne\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
