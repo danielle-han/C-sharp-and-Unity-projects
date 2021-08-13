@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb
