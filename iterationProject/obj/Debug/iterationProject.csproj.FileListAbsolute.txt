@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\bin\Debug\iterationProject.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\bin\Debug\iterationProject.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\bin\Debug\iterationProject.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\obj\Debug\iterationProject.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\obj\Debug\iterationProject.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\obj\Debug\iterationProject.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\iterationProject\obj\Debug\iterationProject.pdb
