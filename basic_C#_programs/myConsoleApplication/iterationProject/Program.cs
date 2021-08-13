@@ -71,21 +71,20 @@ namespace iterationProject
             Console.WriteLine("Enter an animal:");
             string animal = Console.ReadLine();
 
+            bool found = false;
+
             //loop
             for (int i = 0; i < animalList.Count; i++)
             {
                 if (animal == animalList[i])
                 {
                     Console.WriteLine(i);
-                    if (i == animalList.LastIndexOf(animal))
-                    {
-                        break;
-                    }
+                    found = true;
                 }
-                else if (animalList.Count - i == 1 && animal != animalList[i])
-                {
-                    Console.WriteLine("The animal you entered is not in the list");
-                }
+            }
+            if (!found)
+            {
+                Console.WriteLine("animal was not found in the list");
             }
 
 
@@ -96,12 +95,13 @@ namespace iterationProject
             foreach (string name in nameList)
             {
                 //show string and whether or not it has already appeared.
-                Console.WriteLine(name);
                 if (checkNameList.Contains(name))
                 {
                     Console.WriteLine(name + " already appeared in list");
+                } else { 
+                    Console.WriteLine(name);
+                     checkNameList.Add(name); 
                 }
-                checkNameList.Add(name);
             }
 
             Console.WriteLine("End of program");
