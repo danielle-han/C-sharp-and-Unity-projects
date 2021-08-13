@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodClassAssignment", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodClassAssignment2", "MethodClassAssignment2\MethodClassAssignment2.csproj", "{A9C3CAA3-7838-40D0-B68E-D54C6FB202FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodClassAssignment3", "MethodClassAssignment3\MethodClassAssignment3.csproj", "{790B73EA-7378-4FF0-A554-3A867802617B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A9C3CAA3-7838-40D0-B68E-D54C6FB202FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9C3CAA3-7838-40D0-B68E-D54C6FB202FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9C3CAA3-7838-40D0-B68E-D54C6FB202FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790B73EA-7378-4FF0-A554-3A867802617B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790B73EA-7378-4FF0-A554-3A867802617B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790B73EA-7378-4FF0-A554-3A867802617B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790B73EA-7378-4FF0-A554-3A867802617B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
