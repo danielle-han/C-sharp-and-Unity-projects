@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace WhileLoopAssignment
 {
     class Program
@@ -30,6 +31,7 @@ namespace WhileLoopAssignment
             } while (number1 != 2);
 
             Console.WriteLine("You guessed correctly!");
+
             Console.Read();
         }
     }

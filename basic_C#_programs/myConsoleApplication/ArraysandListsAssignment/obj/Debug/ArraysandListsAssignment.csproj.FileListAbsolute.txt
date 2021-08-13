@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\bin\Debug\ArraysandListsAssignment.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\bin\Debug\ArraysandListsAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\bin\Debug\ArraysandListsAssignment.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\obj\Debug\ArraysandListsAssignment.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\obj\Debug\ArraysandListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\obj\Debug\ArraysandListsAssignment.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\myConsoleApplication\ArraysandListsAssignment\obj\Debug\ArraysandListsAssignment.pdb
