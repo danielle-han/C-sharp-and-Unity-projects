@@ -10,9 +10,20 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            //object with values: shorthand - initializes object with values
+            //Card card = new Card() { Face = "King", Suit = "Spades" };
+
+            
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            //game.ListPlayers();
+            //Console.ReadLine();
+            //game.Dealer = "Jesse";
+            //game.Name = "TwentyOne";
+
             Deck deck = new Deck();
             deck.Shuffle();
-           //Shuffle(deck: deck, times: 3) //named parameters.
+            //Shuffle(deck: deck, times: 3) //named parameters.
 
             foreach (Card card in deck.Cards)
             {
