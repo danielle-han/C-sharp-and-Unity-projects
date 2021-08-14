@@ -1,0 +1,7 @@
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\bin\Debug\MethodClassAssignment6.exe.config
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\bin\Debug\MethodClassAssignment6.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\bin\Debug\MethodClassAssignment6.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\obj\Debug\MethodClassAssignment6.csproj.AssemblyReference.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\obj\Debug\MethodClassAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\obj\Debug\MethodClassAssignment6.exe
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment6\obj\Debug\MethodClassAssignment6.pdb
