@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodClassAssignment5
+namespace MethodClassAssignment6
 {
-    public class Employee : Person //inheritance
+    public class Employee : Person, IQuittable //inheritance
     {
         //property
         public int Id { get; set; }
@@ -16,5 +16,10 @@ namespace MethodClassAssignment5
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
+        public void Quit()
+        {
+            Console.WriteLine("I Quit");
+        }
     }
+
 }

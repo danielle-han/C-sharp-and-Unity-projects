@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodClassAssignment5
+namespace MethodClassAssignment6
 {
     public abstract class Person
     {
