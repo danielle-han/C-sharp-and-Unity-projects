@@ -4,3 +4,4 @@ C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\Met
 C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment3\obj\Debug\MethodClassAssignment3.csproj.CoreCompileInputs.cache
 C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment3\obj\Debug\MethodClassAssignment3.exe
 C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment3\obj\Debug\MethodClassAssignment3.pdb
+C:\Users\hand1\Documents\GitHub\c-sharp-and-unity-projects\basic_C#_programs\MethodAssignment\MethodClassAssignment3\obj\Debug\MethodClassAssignment3.csproj.AssemblyReference.cache
