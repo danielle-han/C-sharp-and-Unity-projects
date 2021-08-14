@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace MethodClassAssignment6
 {
-    public class Employee : Person, IQuittable //inheritance
+    public class Employee<T> : Person, IQuittable //inheritance
     {
         //property
         public int Id { get; set; }
+        public List<T> Things { get; set; }
 
         //method
         public override void SayName()
@@ -24,11 +25,11 @@ namespace MethodClassAssignment6
         }
 
         //overload operator ==
-        public static bool operator ==(Employee employee, Employee employee1)
+        public static bool operator ==(Employee<T> employee, Employee<T> employee1)
         {
             return employee.Id == employee1.Id;
         }
-        public static bool operator !=(Employee employee, Employee employee1)
+        public static bool operator !=(Employee<T> employee, Employee<T> employee1)
         {
             return employee.Id != employee1.Id;
         }
