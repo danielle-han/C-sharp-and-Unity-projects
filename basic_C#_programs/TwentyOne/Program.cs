@@ -29,14 +29,14 @@ namespace TwentyOne
             //game -= player;
 
             Deck deck = new Deck();
-            deck.Shuffle();
+            //deck.Shuffle();
             //Shuffle(deck: deck, times: 3) //named parameters.
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
 
