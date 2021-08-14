@@ -14,12 +14,22 @@ namespace MethodClassAssignment6
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+            employee.Id = 2;
+
+            Employee employee1 = new Employee();
+            employee1.FirstName = "Sample";
+            employee1.LastName = "Student2";
+            employee1.Id = 2;
 
             IQuittable quit = new Employee();
             quit.Quit();
 
+            //check overload operator
+            bool check = employee == employee1;
 
-            Console.ReadLine();
+            Console.WriteLine(check);
+
+        Console.ReadLine();
         }
     }
 }

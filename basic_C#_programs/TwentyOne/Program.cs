@@ -13,13 +13,20 @@ namespace TwentyOne
             //object with values: shorthand - initializes object with values
             //Card card = new Card() { Face = "King", Suit = "Spades" };
 
-            
+
             //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
             //game.ListPlayers();
             //Console.ReadLine();
             //game.Dealer = "Jesse";
             //game.Name = "TwentyOne";
+
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player;
+            game -= player;
 
             Deck deck = new Deck();
             deck.Shuffle();

@@ -16,9 +16,21 @@ namespace MethodClassAssignment6
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
+
+        //calling quit method 
         public void Quit()
         {
             Console.WriteLine("I Quit");
+        }
+
+        //overload operator ==
+        public static bool operator ==(Employee employee, Employee employee1)
+        {
+            return employee.Id == employee1.Id;
+        }
+        public static bool operator !=(Employee employee, Employee employee1)
+        {
+            return employee.Id != employee1.Id;
         }
     }
 
