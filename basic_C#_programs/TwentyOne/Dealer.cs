@@ -18,11 +18,11 @@ namespace TwentyOne
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter(@"C:\Users\hand1\Desktop\log.txt", true))
-            {
-                file.WriteLine(DateTime.Now);
-                file.WriteLine(card);
-            } //using statement automatically disposes resources after closing }
+            //using (StreamWriter file = new StreamWriter(@"C:\Users\hand1\Desktop\log.txt", true))
+            //{
+             //   file.WriteLine(DateTime.Now);
+             //   file.WriteLine(card);
+            //} //using statement automatically disposes resources after closing }
             Deck.Cards.RemoveAt(0);
         }
     }
